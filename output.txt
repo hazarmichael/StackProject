@@ -1,0 +1,14 @@
+Expression 1 : 2+(5-9)+4*(6+(7+5)-1)
+Validity: Valid
+
+Expression 2 : 2+(14-9)+4*(6+(7+5-1)
+Validity: Invalid
+
+Expression 3 : 2+(5-3)
+Validity: Valid
+
+Expression 4 : (2*4+(3*7))
+Validity: Valid
+
+Expression 5 : ((2+5+(2*4))(3-1))Validity: Invalid
+
